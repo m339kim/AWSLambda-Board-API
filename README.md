@@ -47,5 +47,3 @@ Now, let's delete the post we created. We currently have a total of 4 posts on o
 <br />
 Successfully deleted post! Now see our database: total number of posts has decreased from 4 to 3:
 <img width="730" alt="Screen Shot 2022-05-16 at 9 47 43 PM" src="https://user-images.githubusercontent.com/55883282/168711614-57caead3-b2c9-4500-9c36-e471e74b587c.png">
-
-## Overcoming obstacles
