@@ -10,6 +10,9 @@ This RESTful API is fully written in JavaScript. It is built using AWS API Gatew
 There are essentially four actions the user can take: Create a post, Edit a post, View a post (either view all posts or view a specific one), and Delete a post. 
 1. Create a post
    * `case: 'POST'`
+dkfskld
+
+
 2. Edit a post 
    * `case: 'PUT'`
 3. View a post (View all post or a Specific post)
