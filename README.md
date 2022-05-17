@@ -17,6 +17,9 @@ dkfskld
    * `case: 'PUT'`
 3. View a post (View all post or a Specific post)
    * `case: 'GET'`
+When we wish to view all of the posts, then we can use the GET method to access them. The run results of the method is:
+
+Now, if we wish to view a specific post, then we can add a forward slash (/) and a Post # to the MongoDB URL. Say we wish to view tagging information of Post #2. Then, we will get the following run results:
 4. Delete a post.
    * `case: 'DELETE'`
 
